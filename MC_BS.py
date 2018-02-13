@@ -32,12 +32,3 @@ plt.xlabel('time')
 plt.ylabel('Stock price')
 plt.title('Monte Carlo simulation - Euler Scheme')
 plt.show()
-
-# Histogram and VaR
-hist = S_t[N-1, :]
-# var = hist.quantile(0.05)
-plt.figure(num=2)
-plt.hist(x=hist, normed=True, bins=20, histtype='stepfilled', alpha=0.2, color='blue')
-# plt.axvline(x=var, linewidth=2, color='r')
-plt.show()
-
