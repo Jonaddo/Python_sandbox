@@ -30,7 +30,6 @@ for i in range(N-1):
 
 drift = np.mean(S_t, axis=1)
 lower, upper = np.percentile(S_t, [2.5, 97.5], axis=1)
-lower = np.percentile()
 plt.plot(S_t, '#808080')
 plt.plot(drift, '-r', linewidth=2.0)
 plt.plot(lower, '-k', linewidth=2.0)
