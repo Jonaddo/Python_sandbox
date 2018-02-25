@@ -1,6 +1,9 @@
 # About this repository
 In this repository there are divers projects related to finance and other topics.
 
+# Callprice_MC.py
+Simple code to compute a call option price using the Monte-Carlo simulation in the BS framework.
+
 # MC_BS.py 
 Here we have a simple example of a Monte Carlo simulation using the Euler scheme for the Black-Scholes model.
 ![figure_bs](https://user-images.githubusercontent.com/36447056/36300729-9835812a-1302-11e8-9691-be47924eabd7.png)
