@@ -1,5 +1,5 @@
 # About this repository
-In this repository there are divers projects related to finance and other topics.
+In this repository there are various projects related to finance.
 
 # Callprice_MC.py
 Simple code to compute a call option price using the Monte-Carlo simulation in the BS framework.
