@@ -1,5 +1,11 @@
-# About this repository
+# About
 In this repository there are a couple of exercises related to different topics.
+
+# square_circle
+Could be an interview question.
+We imagine that we are asked to draw random dots in the corner of a square.
+In addition, we have to draw a circle in this corner.
+Finally, we have to color the dots in 2 different colors depending if they are in or out of the circle.
 
 # Callprice_MC.py
 Simple code to compute a call option price using the Monte-Carlo simulation in the BS framework.
