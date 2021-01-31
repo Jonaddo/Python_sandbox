@@ -1,5 +1,5 @@
 # About
-This repository focuses on finance quantitative analysis.
+This repository focuses on quantitative finance analysis.
 
 # Callprice_MC
 Simple code to compute a call option price using the Monte-Carlo simulation in the BS framework.
