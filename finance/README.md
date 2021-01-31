@@ -1,6 +1,11 @@
 # About
 This repository focuses on quantitative finance analysis.
 
+# fund_technical_information_simple_version
+Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.
+For simplicity we assume no cashflows (e.g. dividend payments) and constant weights overtime.
+![téléchargement](https://user-images.githubusercontent.com/36447056/106392100-a7982900-63f0-11eb-88d8-09599ac47b70.png)
+
 # Callprice_MC
 Simple code to compute a call option price using the Monte-Carlo simulation in the BS framework.
 
