@@ -4,6 +4,11 @@ This repository focuses on quantitative finance analysis.
 # fund_technical_information_simple_version
 Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.
 For simplicity we assume no cashflows (e.g. dividend payments) and constant weights overtime.
+
+Important reminder:
+  1) Simple returns are additive in a portfolio but not log returns
+  2) Simple returns are not additive over time
+ 
 In the picture below, rp is the portfolio return in 2020 and log_SP500 is our benchmark.
 The constitutens of the portfolio are the SPY, TLT and GLD.
 
