@@ -3,7 +3,8 @@ This repository focuses on quantitative finance analysis.
 
 # portfolio_basic_technical_information
 Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.  
-For simplicity we assume no cashflows (e.g. dividend payments).  
+For simplicity we assume no cashflows (e.g. dividend payments) but in the next update we will see how  
+to include cashflows and weight re-balancing in the logic.
 
 Important reminder:
   1) Simple returns are additive in a portfolio but not log returns
