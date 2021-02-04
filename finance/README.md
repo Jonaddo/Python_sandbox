@@ -9,6 +9,7 @@ to include cashflows and weight re-balancing in the logic.
 Important reminder:
   1) Simple returns are additive in a portfolio but not log returns
   2) Simple returns are not additive over time
+  3) Stock returns do NOT follow a normal distribution since in comparison they have fatter tails and are negatively skewed.
  
 In the picture below, rp is the portfolio return in 2020 and ret_SP500 is our benchmark.  
 The constitutens of the portfolio are the SPY, TLT and GLD.  
