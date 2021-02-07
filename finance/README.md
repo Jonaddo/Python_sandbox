@@ -1,10 +1,10 @@
 # About
 This repository focuses on quantitative finance analysis.
 
-# portfolio_basic_technical_information
+# portfolio_measures
 Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.  
-For simplicity we assume no cashflows (e.g. dividend payments) but in the next update we will see how  
-to include cashflows and weight re-balancing in the logic.
+Since we compute the Time-weighted Rate of Return (TWRR) we do not need to take into account cashflows.   
+In the next update we will see how we can add the weight re-balancing in the logic.
 
 Important reminder:
   1) Simple returns are additive in a portfolio but not log returns
