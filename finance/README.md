@@ -2,8 +2,7 @@
 This repository focuses on quantitative finance analysis.
 
 # portfolio_measures
-Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.  
-Since we compute the Time-weighted Rate of Return (TWRR) we do not need to take into account cashflows.   
+Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.   
 In the next update we will see how we can add the weight re-balancing in the logic.
 
 Important reminder:
