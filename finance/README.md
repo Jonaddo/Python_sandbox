@@ -16,8 +16,9 @@ The constitutens of the portfolio are the SPY, TLT and GLD.
 ![téléchargement](https://user-images.githubusercontent.com/36447056/106645323-7b191400-658c-11eb-88fc-14d60e6742f9.png)
 
 
-# Callprice_MC
+# call_option_pricing_example
 Simple code to compute a call option price using the Monte-Carlo simulation in the BS framework.
+
 
 # monte_carlo_simulations
 The notebook shows a simple example of a Monte Carlo simulation using the Euler scheme and Heston mode in the Black-Scholes framework (r, mu and sigma are constant).  
