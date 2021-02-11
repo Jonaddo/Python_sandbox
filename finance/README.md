@@ -21,7 +21,8 @@ Simple code to compute a call option price using the Monte-Carlo simulation in t
 
 
 # monte_carlo_simulations
-The notebook shows a simple example of a Monte Carlo simulation using the Euler scheme and Heston mode in the Black-Scholes framework (r, mu and sigma are constant).  
-The main difference with the previous example is that this time we allow the volatility to be stochastic and thus is more realistic for simulating for instance, stock prices.  
+The notebook shows a simple example of a Monte Carlo simulation using the Euler discretization scheme with a simple geometric browninan motion and in the second  
+example with the Heston model.  
+The main difference with the first example is that this time we allow the volatility to be stochastic and thus is more realistic for simulating e.g. stock prices.  
 
 ![figure_bs](https://user-images.githubusercontent.com/36447056/36300729-9835812a-1302-11e8-9691-be47924eabd7.png)
