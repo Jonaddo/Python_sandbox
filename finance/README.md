@@ -25,4 +25,5 @@ The notebook shows a simple example of a Monte Carlo simulation using the Euler 
 example with the Heston model.  
 The main difference with the first example is that this time we allow the volatility to be stochastic and thus is more realistic for simulating e.g. stock prices.  
 
-![figure_bs](https://user-images.githubusercontent.com/36447056/36300729-9835812a-1302-11e8-9691-be47924eabd7.png)
+![téléchargement](https://user-images.githubusercontent.com/36447056/107699677-aef3e800-6cb6-11eb-9350-d5f76417f970.png)
+
