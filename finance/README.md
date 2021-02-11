@@ -13,7 +13,7 @@ Important reminder:
 In the picture below, rp is the portfolio return in 2020 and ret_SP500 is our benchmark.  
 The constitutens of the portfolio are the SPY, TLT and GLD.  
 
-![téléchargement](https://user-images.githubusercontent.com/36447056/106645323-7b191400-658c-11eb-88fc-14d60e6742f9.png)
+![cumulative](https://user-images.githubusercontent.com/36447056/107700637-1199b380-6cb8-11eb-8a79-2804f520cfe0.png)
 
 
 # call_option_pricing_example
