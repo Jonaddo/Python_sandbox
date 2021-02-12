@@ -1,5 +1,5 @@
 # About
-This repository focuses on quantitative finance analysis.
+This repository contains different exercises of quantitative finance analysis.
 
 # portfolio_measures
 Exercise to calculate common technical fund informatino such as TE, beta, correlation and volatility.   
@@ -11,6 +11,7 @@ Important reminder:
   3) Stock returns do NOT follow a normal distribution since in comparison they have fatter tails and are negatively skewed.
  
 In the picture below, rp is the portfolio return in 2020 and ret_SP500 (S&P 500) is our benchmark.  
+The excess return for year 2020 in this example is +7.19%.  
 The constitutens of the portfolio are the SPY, TLT and GLD.  
 
 ![cumulative](https://user-images.githubusercontent.com/36447056/107700637-1199b380-6cb8-11eb-8a79-2804f520cfe0.png)
